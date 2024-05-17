@@ -1,2 +1,7 @@
-"password validation"
-Tech stack: HTML css Javascript 
+**"password validation"**
+**Tech stack:**
+**
+html
+css
+Javascript 
+**
