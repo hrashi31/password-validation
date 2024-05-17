@@ -1,7 +1,5 @@
 **password validation**
 **Tech stack:**
-**
-html
+**html
 css
-Javascript 
-**
+Javascript **
